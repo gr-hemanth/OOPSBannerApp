@@ -1,12 +1,4 @@
-/**
- * OOPSBannerApp
- *
- * UC2: Render OOPS as Banner using Print Statements
- *
- * @author Hemanth
- * @version 2.0
- */
-public class OOPSBannerApp {
+ public class OOPSBannerApp {
 
     public static void main(String[] args) {
 
